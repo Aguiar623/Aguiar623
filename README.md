@@ -1,10 +1,9 @@
-### 👋 ¡Hola! Soy @Aguiar623
+<h1><span style="font-size: 3rem;">👋</span> ¡Hola! Soy @Aguiar623</h1>👋
 
 🚀 Apasionado por la **programación** y el **diseño de sistemas**
 
 ### 💻 Tecnologías y herramientas
-
-<h1><span style="font-size: 3rem;">👋</span>![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=000)  
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=000)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
